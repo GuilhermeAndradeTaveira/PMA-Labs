@@ -17,8 +17,13 @@ PMALabs/
 └─ README.md
 ```
 ## Tools & Enviroment 
-All analyses were made on a Windows 10 sandbox. 
-- **DO NOT RUN THOSE SAMPLES OUTSIDE OF PROPERLY ISOLATED VMs.**
+The analyses were conducted in a lab environment consisting of:
+- Windows 10 Sanbox (FlareVM)
+- Windows XP Sandbox
+- Remnux Linux (Network Monitoring)
+
+
+**DO NOT RUN THOSE SAMPLES OUTSIDE OF PROPERLY ISOLATED VMs.**
 
 ## Most used tools
 - Ghidra
